@@ -1,0 +1,13 @@
+c:\users\bo0415\documents\visual studio 2013\Projects\Buscaminas\BuscaminasConsola\bin\Debug\BuscaminasConsola.exe.config
+c:\users\bo0415\documents\visual studio 2013\Projects\Buscaminas\BuscaminasConsola\obj\Debug\BuscaminasConsola.csprojResolveAssemblyReference.cache
+c:\users\bo0415\documents\visual studio 2013\Projects\Buscaminas\BuscaminasConsola\bin\Debug\BuscaminasConsola.exe
+c:\users\bo0415\documents\visual studio 2013\Projects\Buscaminas\BuscaminasConsola\bin\Debug\BuscaminasConsola.pdb
+c:\users\bo0415\documents\visual studio 2013\Projects\Buscaminas\BuscaminasConsola\obj\Debug\BuscaminasConsola.exe
+c:\users\bo0415\documents\visual studio 2013\Projects\Buscaminas\BuscaminasConsola\obj\Debug\BuscaminasConsola.pdb
+\\VBOXSVR\CompVM\BuscaminasConsola\bin\Debug\BuscaminasConsola.exe.config
+\\VBOXSVR\CompVM\BuscaminasConsola\bin\Debug\BuscaminasConsola.exe
+\\VBOXSVR\CompVM\BuscaminasConsola\bin\Debug\BuscaminasConsola.pdb
+\\VBOXSVR\CompVM\BuscaminasConsola\obj\Debug\BuscaminasConsola.csprojResolveAssemblyReference.cache
+\\VBOXSVR\CompVM\BuscaminasConsola\obj\Debug\BuscaminasConsola.csproj.CoreCompileInputs.cache
+\\VBOXSVR\CompVM\BuscaminasConsola\obj\Debug\BuscaminasConsola.exe
+\\VBOXSVR\CompVM\BuscaminasConsola\obj\Debug\BuscaminasConsola.pdb
